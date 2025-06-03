@@ -1,0 +1,9 @@
+{
+  "label": "Introduction",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "title": "Project Introduction",
+    "description": "Overview and objectives of the Tennis Video Analysis System."
+  }
+}
